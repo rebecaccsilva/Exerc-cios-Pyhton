@@ -1,7 +1,7 @@
 #jeito 2
 
 print('='*30)
-print('{:^30}'.format('BANCO LADRÃO'))
+print('{:^30}'.format('BANCO RAIO DE SOL'))
 print('='*30)
 
 valor=int(input('Qual valor você quer sacar? R$'))
@@ -28,4 +28,4 @@ while True:
             break
 
 print('='*30)
-print('Volte sempre ao Banco Ladrão!! Tenha um bom dia!')
+print('Volte sempre ao Banco Raio de Sol!! Tenha um bom dia!')

@@ -31,5 +31,5 @@ while True:
 print('-'*15,'FIM DO PROGRAMA','-'*15)
 print(f'O total da compra foi R${tc:.2f}')
 print(f'Temos {mm} produtos custando mais de R$1000.00')
-print(f'O prudo mais barato foi \033[4;32m{nmba}\033[m que custa R${vmba:.2f}')
+print(f'O produto mais barato foi \033[4;32m{nmba}\033[m que custa R${vmba:.2f}')
     
