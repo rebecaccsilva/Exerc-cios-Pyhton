@@ -15,7 +15,7 @@ c = (
 
 def ajuda(com):
     titulo(f"Acessando o manual do comando \'{com}\'", 4)
-    print(c[6], end='')
+    print(c[5], end='')
     help(com)
     print(c[0], end='')
     sleep(2)
