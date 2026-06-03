@@ -57,3 +57,9 @@ c2 = Caneta("rosa")
 c2.destampar()
 c1.quebrar_linha(3)
 c2.escrever("Blebleblubla")
+
+c3= Caneta("rosa")
+c3.destampar()
+c3.quebrar_linha(2)
+c3.escrever('Oi denilson')
+
