@@ -14,7 +14,7 @@ class Gamer:
         self.fav = sorted(self.fav, key=str.lower)
 
     def ficha(self):
-        conteudo = f"Nome Real: [white on black]{self.real_name}[/]"
+        conteudo = f"Nome Real: [black on purple]{self.real_name}[/]"
         conteudo += f"\nJogos favoritos: "
         for num, game in enumerate(self.fav):
             conteudo += f"\n:video_game: [purple]{game}[/]"
